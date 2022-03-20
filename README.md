@@ -8,15 +8,14 @@
 
 ## Experimental Design
 
-* Installing packages and loading libraries needed
-* Loading the data
-* Exploratory Data Analysis
-* Data Cleaning
-* Visualizations
-* Modelling: Random Forest
-* Predictions and Evaluation of the Model
-* Conclusion
-
+- Installing packages and loading libraries needed
+- Loading the data
+- Data Cleaning
+- Exploratory Data Analysis:
+  - Univariate Analysis
+  - Bivariate Analysis
+- Conclusion
+- Recommendations
 
 ## Setup/Installation Requirements
 
