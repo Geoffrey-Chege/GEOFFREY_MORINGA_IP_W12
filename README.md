@@ -1,5 +1,7 @@
 # GEOFFREY_MORINGA_IP_W12: R project to predict whether a user will click an Ad.
 
+RPubs link: https://rpubs.com/Geoffrey_Chege/880723
+
 ## Description        
 * A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog.
 * She currently targets audiences originating from various countries.
